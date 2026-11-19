@@ -1,0 +1,8 @@
+# Live credentials and exported chats - never commit
+teams_tokens.json
+teams_export/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
